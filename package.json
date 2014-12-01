@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "postal": "^0.10.3",
-    "traceur": "0.0.58",
+    "traceur": "0.0.61",
     "machina": "^0.4.0-1"
   },
   "devDependencies": {
@@ -75,6 +75,7 @@
     "should": "^4.0.4",
     "sinon": "~1.11.0",
     "source-map-loader": "^0.1.3",
+    "source-map-support": "^0.2.8",
     "traceur-loader": "^0.6.1",
     "webpack": "^1.4.8",
     "webpack-dev-server": "^1.6.5"
